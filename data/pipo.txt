@@ -1,0 +1,14 @@
+noise_256_1.png
+noise_256_2.png
+noise_256_3.png
+noise_256_4.png
+noise_cos_1.png
+noise_cos_2.png
+noise_cos_3.png
+noise_ecorce_1.png
+noise_ecorce_2.png
+noise_pierre_1.png
+noise_pierre_2.png
+noise_sin_1.png
+noise_sin_2.png
+noise_sin_3.png
