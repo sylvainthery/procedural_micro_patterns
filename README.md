@@ -6,7 +6,7 @@ Presented at [Pacific Graphic 2022](https://pg2022.org/)
 
 
 
-# desciption
+# Description
 
 The software is a WebGL implementation of our real-time generation and
 filtering of structured procedural micro-patterns. After loading, the
@@ -43,6 +43,8 @@ As it is a WebGL implementation, it runs on every operating system. It
 just needs a compatible web browser (Microsoft Edge, Firefox, Google
 Chrome or Safari for example) and a live server to run
 (the Live Server extension on Visual Studio Code or local webserver launch with `python3 -m http.server`)
+
+It should run on any configuration, but of course de discrete graphic GPU (with dedicated memory), will provide you better performance
 
 
 # Reproduce Figure
