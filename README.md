@@ -44,7 +44,7 @@ just needs a compatible web browser (Microsoft Edge, Firefox, Google
 Chrome or Safari for example) and a live server to run
 (the Live Server extension on Visual Studio Code or local webserver launch with `python3 -m http.server`)
 
-It should run on any configuration, but of course de discrete graphic GPU (with dedicated memory), will provide you better performance
+It should run on any configuration, but of course a discrete graphic GPU (with dedicated memory) will provide you better performance
 
 
 # Reproduce Figure
